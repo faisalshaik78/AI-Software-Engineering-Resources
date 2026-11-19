@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">AI Software Engineering Resources</title>
+  <desc id="desc">A collection of tools and resources for AI-assisted software development.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#263b63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65">
+    <path d="M820 65h100v55h90v-55h95"/>
+    <path d="M820 225h80v-55h110v55h95"/>
+    <path d="M940 65v-28h70v28M1010 225v28h80v-28"/>
+    <circle cx="820" cy="65" r="6" fill="#67e8f9"/>
+    <circle cx="1105" cy="65" r="6" fill="#a78bfa"/>
+    <circle cx="820" cy="225" r="6" fill="#67e8f9"/>
+    <circle cx="1105" cy="225" r="6" fill="#a78bfa"/>
+  </g>
+  <g transform="translate(875 100)" fill="none" stroke="#c4b5fd" stroke-width="3" opacity=".9">
+    <rect x="0" y="0" width="76" height="76" rx="14"/>
+    <path d="M20 28l-12 10 12 10M56 28l12 10-12 10M44 20L32 56"/>
+  </g>
+  <text x="72" y="112" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">AI Software Engineering</text>
+  <text x="72" y="164" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Resources</text>
+  <rect x="72" y="193" width="340" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="232" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">Tools · Agents · Frameworks · Developer Resources</text>
+</svg>
