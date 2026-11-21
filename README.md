@@ -6,6 +6,7 @@ This list is independently organized and written. It is inspired by the wider AI
 
 ## Contents
 
+- [Quick Links](#-quick-links)
 - [AI Coding Assistants](#-ai-coding-assistants)
 - [Autonomous Software Engineering Agents](#-autonomous-software-engineering-agents)
 - [Multi-Agent Frameworks](#-multi-agent-frameworks)
@@ -15,6 +16,13 @@ This list is independently organized and written. It is inspired by the wider AI
 - [Getting Started](#-getting-started)
 - [Contributing](#-contributing)
 - [Disclaimer](#-disclaimer)
+
+## 🔎 Quick Links
+
+- [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
+- [OpenAI Codex](https://github.com/openai/codex)
+- [Ollama Documentation](https://ollama.com/docs)
+- [Playwright Documentation](https://playwright.dev/docs/intro)
 
 ## 💻 AI Coding Assistants
 
